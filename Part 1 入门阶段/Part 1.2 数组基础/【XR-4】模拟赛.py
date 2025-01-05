@@ -14,7 +14,7 @@ for day in range(1,k+1):
 
 print(*result)
 
-# 洛谷不超时版本
+
 '''
 n, m, k = map(int, input().split())
 schedule = []
